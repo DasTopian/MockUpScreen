@@ -1,2 +1,0 @@
-# MockUpScreen
-Created with CodeSandbox
